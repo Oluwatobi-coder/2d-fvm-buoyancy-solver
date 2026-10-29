@@ -97,3 +97,9 @@ python main.py
 - De Vahl Davis, G. (1983). Natural convection of air in a square cavity: A bench mark numerical solution. International Journal for Numerical Methods in Fluids, 3(3), 249-264.
 
 - Patankar, S. V. (1980). Numerical Heat Transfer and Fluid Flow. Hemisphere Publishing.
+
+## 📜 License
+
+This project is licensed under the MIT License - see the `LICENSE` file for details.
+
+If you find this solver helpful, please ⭐ the repository!
